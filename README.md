@@ -1,2 +1,2 @@
 # DVwPython-Seaborn
-Seaborn plot types. These Jupyter notebooks on Seaborn plots are prepared by Kimberly Fetti.
+These Jupyter notebooks on Seaborn plot types are prepared by Kimberly Fetti.
